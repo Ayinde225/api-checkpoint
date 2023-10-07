@@ -1,0 +1,23 @@
+/* Add your styles here */
+.user-list {
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
+
+.user-list h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.user-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-list li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #666;
+}
